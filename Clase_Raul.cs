@@ -8,5 +8,10 @@ namespace PracticaCV_RaulGL
 {
     internal class Clase_Raul
     {
+        //CONSTANTES
+        //MIEMBROS PRIVADOS
+        //CONSTRUCTORES
+        //PROPIEDADES PRIVADAS
+        //METODOS PUBLICOS
     }
 }
